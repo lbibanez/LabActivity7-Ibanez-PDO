@@ -1,0 +1,19 @@
+body{font-family:Arial,sans-serif;background:#f0f2f5;margin:0;color:#222}
+.container{max-width:640px;margin:20px auto;padding:0 12px}
+nav{background:#2c3e50;color:#fff;padding:12px 20px;display:flex;justify-content:space-between;align-items:center}
+nav a{color:#fff;margin-left:12px}
+.card{background:#fff;border-radius:6px;padding:16px;margin-bottom:16px;box-shadow:0 1px 3px rgba(0,0,0,.15)}
+label{display:block;margin-top:10px;font-weight:bold}
+input,textarea{width:100%;padding:8px;margin-top:4px;box-sizing:border-box;border:1px solid #bbb;border-radius:4px;font-family:inherit}
+button{margin-top:12px;padding:8px 16px;background:#2c7be5;color:#fff;border:0;border-radius:4px;cursor:pointer}
+.errors{background:#fde8e8;color:#a00;padding:8px 12px;border-radius:4px;margin-bottom:10px}
+.errors ul{margin:0;padding-left:18px}
+.success{color:green}
+.hidden{display:none}
+.meta{color:#666;font-size:.85em}
+.tag{background:#eee;border-radius:3px;padding:1px 6px;font-size:.75em;margin-left:6px}
+.comment{border-top:1px solid #eee;padding:8px 0 8px 12px;margin-top:8px}
+.post-title{margin:0}
+.inline{display:inline}
+.link-btn{background:none;color:#2c7be5;padding:0;margin:0;text-decoration:underline;font-size:inherit}
+nav .link-btn{color:#fff;margin-left:12px}
